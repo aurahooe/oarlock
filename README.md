@@ -1,2 +1,3 @@
-# oarlock
-Oarlock — a harbor board that turns with the hour. Public slips on the rail, private ones in your locker.
+# Oarlock
+
+A harbor board. Write slips, keep them private, or pin them to the public rail. The featured hour turns over every sixty minutes.
